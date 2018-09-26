@@ -1,5 +1,5 @@
 {
-    "name": "@ping/npmlist0",
+    "name": "npmlist0",
     "version": "0.1.0",
     "description": "exec npm -g list --dept=0",
     "main": "index.js",
