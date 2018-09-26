@@ -1,0 +1,17 @@
+{
+    "name": "@ping/npmlist0",
+    "version": "0.1.0",
+    "description": "exec npm -g list --dept=0",
+    "main": "index.js",
+    "author": "kpping",
+    "license": "MIT",
+    "private": false,
+    "bin": {
+        "npmlist0": "index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kpping/npmlist0.git"
+    },
+    "keywords": ["npm", "list", "global", "dept0"]
+}
